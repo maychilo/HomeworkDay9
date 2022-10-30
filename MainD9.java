@@ -31,6 +31,6 @@ public class MainD9 {
 			return fibonancci2(num - 1) + fibonancci2(num - 2);
 		}
 
-	}// Time complexity O(2^n)
+	}// Time complexity O(2n)
 
 }
